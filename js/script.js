@@ -39,7 +39,7 @@ function openFullscreen() {
         
         
         document.getElementById('myVideo').play();
-      }, 50000);
+      }, 80000);
     }, 3000);
   }, 1000);
   }, 1000);
